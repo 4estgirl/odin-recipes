@@ -1,0 +1,1 @@
+This project is designed to give me practice setting up a bare bones website via HTML.
